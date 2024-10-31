@@ -1,5 +1,4 @@
 use std::env;
-use std::io;
 
 fn main() {
     let n: f64 = env::args()
